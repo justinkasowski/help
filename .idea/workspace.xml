@@ -2,16 +2,18 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="lab01_NeuroscienceScripts" targetName="lab01_NeuroscienceScripts" />
+      <config projectName="cmakeHelp" targetName="cmakeHelp." />
     </generated>
   </component>
-  <component name="CMakeSettings">
+  <component name="CMakeSettings" AUTO_RELOAD="true">
     <configurations>
       <configuration PROFILE_NAME="Debug-Cygwin" CONFIG_NAME="Debug" TOOLCHAIN_NAME="Cygwin" ENABLED="true" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f03f3a15-226f-4490-a02f-12bd08ba6d26" name="Default Changelist" comment="">
+    <list default="true" id="f03f3a15-226f-4490-a02f-12bd08ba6d26" name="Default Changelist" comment="?">
+      <change beforePath="$PROJECT_DIR$/.idea/help.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/help.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/test.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,12 +38,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/test.cpp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="CPPToolchains" />
   </component>
-  <component name="RunManager" selected="CMake Application.lab01_NeuroscienceScripts">
-    <configuration name="Unnamed" type="CMakeRunConfiguration" factoryName="Application" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" RUN_PATH="$PROJECT_DIR$/test.cpp">
+  <component name="RunManager">
+    <configuration name="Unnamed" type="CMakeRunConfiguration" factoryName="Application" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cmakeHelp" TARGET_NAME="cmakeHelp." CONFIG_NAME="Debug-Cygwin" RUN_TARGET_PROJECT_NAME="cmakeHelp" RUN_TARGET_NAME="cmakeHelp.">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -51,34 +53,11 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab01_NeuroscienceScripts" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab01_NeuroscienceScripts" TARGET_NAME="lab01_NeuroscienceScripts" CONFIG_NAME="Debug-Cygwin" RUN_TARGET_PROJECT_NAME="lab01_NeuroscienceScripts" RUN_TARGET_NAME="lab01_NeuroscienceScripts">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Unnamed" type="ShConfigurationType" nameIsGenerated="true">
-      <option name="INDEPENDENT_SCRIPT_PATH" value="false" />
-      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/test.cpp" />
-      <option name="SCRIPT_OPTIONS" value="" />
-      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
-      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
-      <option name="INTERPRETER_PATH" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="EXECUTE_IN_TERMINAL" value="true" />
-      <envs />
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="CMake Application.Unnamed" />
-      <item itemvalue="CMake Application.lab01_NeuroscienceScripts" />
-      <item itemvalue="Shell Script.Unnamed" />
-    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -89,11 +68,38 @@
       <option name="presentableId" value="Default" />
       <updated>1617653369395</updated>
       <workItem from="1617653371252" duration="4603000" />
+      <workItem from="1617658867223" duration="227000" />
+      <workItem from="1617659207441" duration="68000" />
+      <workItem from="1617659311899" duration="126000" />
     </task>
+    <task id="LOCAL-00001" summary="?">
+      <created>1617658945229</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617658945229</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="?" />
+    <option name="LAST_COMMIT_MESSAGE" value="?" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
